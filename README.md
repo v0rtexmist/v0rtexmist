@@ -1,8 +1,7 @@
 # 👋 Hey there, I'm VORTEXMIST!
 
-🔍 **Cybersecurity Enthusiast | Pen Tester at UST**  
+🔍 **Cybersecurity Enthusiast**  
 🌌 **Future Dark Web Explorer**  
-🐍 **Python Ninja**  
 
 Welcome to my GitHub profile! I’m on a journey to become a knowledgeable hacker and dark web surfer, and I’m excited to share my exploration of cybersecurity with you.
 
@@ -10,17 +9,19 @@ Welcome to my GitHub profile! I’m on a journey to become a knowledgeable hacke
 
 ## 🛠️ Tools I Love
 
-- 🐍 Python
 - 🔧 Kali Linux
+- 🕵️‍♂️ Nmap
+- 🛡️ Burp Suite
+- ⚙️ Metasploit
 - 🌐 Web Exploitation
 - 🔒 API Pentesting
 - 🤖 LLM Security
-
+- 🐍 Python
 ---
 
 ## 🚀 Currently Learning
 
-🌟 **Exploring LLM Pen Testing**  
+🌟 **Exploring Web, API and LLM Pen Testing**  
 I’m diving into how to secure and test large language models. Exciting stuff ahead!
 
 🔍 **Navigating the Dark Web**  
